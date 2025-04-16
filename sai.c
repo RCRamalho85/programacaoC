@@ -13,4 +13,5 @@ int main() {
     printf("Inicial do Nome: %c\n", inicial);
     printf("Nome: %s\n", nome);
  
-    return 0;
+    return 0
+     
